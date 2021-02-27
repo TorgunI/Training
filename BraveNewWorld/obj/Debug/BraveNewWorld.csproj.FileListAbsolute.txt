@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\C#\BraveNewWorld\obj\Debug\BraveNewWorld.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C#\BraveNewWorld\obj\Debug\BraveNewWorld.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\BraveNewWorld\bin\Debug\BraveNewWorld.exe.config
+C:\Users\Admin\Desktop\C#\BraveNewWorld\bin\Debug\BraveNewWorld.exe
+C:\Users\Admin\Desktop\C#\BraveNewWorld\bin\Debug\BraveNewWorld.pdb
+C:\Users\Admin\Desktop\C#\BraveNewWorld\obj\Debug\BraveNewWorld.exe
+C:\Users\Admin\Desktop\C#\BraveNewWorld\obj\Debug\BraveNewWorld.pdb
